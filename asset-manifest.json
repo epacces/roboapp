@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/roboapp/static/css/main.f22622bf.chunk.css",
-    "main.js": "/roboapp/static/js/main.e4e3604e.chunk.js",
-    "main.js.map": "/roboapp/static/js/main.e4e3604e.chunk.js.map",
+    "main.js": "/roboapp/static/js/main.01685d51.chunk.js",
+    "main.js.map": "/roboapp/static/js/main.01685d51.chunk.js.map",
     "runtime-main.js": "/roboapp/static/js/runtime-main.ebd44ea6.js",
     "runtime-main.js.map": "/roboapp/static/js/runtime-main.ebd44ea6.js.map",
     "static/css/2.3c03f26f.chunk.css": "/roboapp/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.aa3f3a9a.chunk.js": "/roboapp/static/js/2.aa3f3a9a.chunk.js",
-    "static/js/2.aa3f3a9a.chunk.js.map": "/roboapp/static/js/2.aa3f3a9a.chunk.js.map",
+    "static/js/2.a549d1f0.chunk.js": "/roboapp/static/js/2.a549d1f0.chunk.js",
+    "static/js/2.a549d1f0.chunk.js.map": "/roboapp/static/js/2.a549d1f0.chunk.js.map",
     "index.html": "/roboapp/index.html",
-    "precache-manifest.d8474e6dff6f6b1eb0ab40f947e51795.js": "/roboapp/precache-manifest.d8474e6dff6f6b1eb0ab40f947e51795.js",
+    "precache-manifest.54254bb42b21298037f9157011981f40.js": "/roboapp/precache-manifest.54254bb42b21298037f9157011981f40.js",
     "service-worker.js": "/roboapp/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/roboapp/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.f22622bf.chunk.css.map": "/roboapp/static/css/main.f22622bf.chunk.css.map",
-    "static/js/2.aa3f3a9a.chunk.js.LICENSE.txt": "/roboapp/static/js/2.aa3f3a9a.chunk.js.LICENSE.txt",
+    "static/js/2.a549d1f0.chunk.js.LICENSE.txt": "/roboapp/static/js/2.a549d1f0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/roboapp/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.ebd44ea6.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.aa3f3a9a.chunk.js",
+    "static/js/2.a549d1f0.chunk.js",
     "static/css/main.f22622bf.chunk.css",
-    "static/js/main.e4e3604e.chunk.js"
+    "static/js/main.01685d51.chunk.js"
   ]
 }
