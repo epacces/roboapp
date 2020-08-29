@@ -5,6 +5,7 @@ import Scroll from '../components/Scroll';
 import './App.css';
 import { setSearchField, requestRobots } from '../actions';
 import { connect } from 'react-redux';
+import ErrorBoundary from '../components/ErrorBoundary';
 
 
 const mapStateToProps = state => {
@@ -46,7 +47,9 @@ class App extends React.Component {
                     <h1 className='f1'>RoboFriends</h1>
                     <SearchBox searchChange={onSearchChange} />
                     <Scroll>
-                        <CardList robots={filteredRobots}> </CardList>
+                        <ErrorBoundary>
+                            <CardList robots={filteredRobots}> </CardList>
+                        </ErrorBoundary>
                     </Scroll>
                 </div>
             )
